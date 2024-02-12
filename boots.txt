@@ -1,0 +1,84 @@
+boots trap gri-----------12row
+10th-feb
+-----------------------------
+	    
+        
+<576px	xs - phone
+≥576px	xm - tablet
+≥768px	md - laptop
+≥992px	lg
+≥1200px	xl
+≥1400px xxl
+
+
+example
+
+col-xs-6
+----------
+git and github
+----------------
+-github is used to share code
+-cloud based
+-git is the tool used to do operation in the system
+and github is the hosting platform
+github aka version control system----we can access previous code we done
+-hosting--to available the wbesite to the internet,,only for basic front end tecnology like html,css,bootstrap,js
+
+-storage space in github is called remote repository
+-local repository-git
+
+git operation
+--------------------
+1)push operation
+2)clone 
+3)pull
+
+push - local repository to remote repo (uploading code)
+clone- remote repo to loca (downloading-entire code)
+push-remote to local repo (updated code)
+
+
+
+
+dev side                                                              github side
+
+
+local storage
+
+                git addd                                                 remote repo
+
+
+staging area
+
+               git commit
+local rep
+           -------------->push to remote rep
+           --------------------------------------------
+
+
+
+  commands
+  1)git innit- create empty git rep for that particular folder
+  2)git status - to check the status of file inside the folder
+  3) git add  filename or --   to add all file use     git .
+  4)git commit - m "msg" to save data in the local repo
+  5)create remote repository in github
+  6) connect remote and local repo using the code given by the github
+  7) git push master - to add code into the remote repo
+  --------------------------
+  task -
+  assignemnt- travelling site                             
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
